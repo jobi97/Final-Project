@@ -1,0 +1,281 @@
+End Week,Age Groups,CVD Deaths
+2020-01-04,Adults,0
+2020-01-04,Elderly,0
+2020-01-04,Middle Aged,1
+2020-01-04,Young Adults,0
+2020-01-11,Adults,0
+2020-01-11,Elderly,0
+2020-01-11,Middle Aged,0
+2020-01-11,Young Adults,0
+2020-01-18,Adults,0
+2020-01-18,Elderly,1
+2020-01-18,Middle Aged,1
+2020-01-18,Young Adults,0
+2020-01-25,Adults,1
+2020-01-25,Elderly,0
+2020-01-25,Middle Aged,1
+2020-01-25,Young Adults,0
+2020-02-01,Adults,0
+2020-02-01,Elderly,0
+2020-02-01,Middle Aged,0
+2020-02-01,Young Adults,0
+2020-02-08,Adults,0
+2020-02-08,Elderly,0
+2020-02-08,Middle Aged,2
+2020-02-08,Young Adults,0
+2020-02-15,Adults,0
+2020-02-15,Elderly,0
+2020-02-15,Middle Aged,0
+2020-02-15,Young Adults,0
+2020-02-22,Adults,1
+2020-02-22,Elderly,2
+2020-02-22,Middle Aged,2
+2020-02-22,Young Adults,0
+2020-02-29,Adults,3
+2020-02-29,Elderly,3
+2020-02-29,Middle Aged,3
+2020-02-29,Young Adults,0
+2020-03-07,Adults,1
+2020-03-07,Elderly,19
+2020-03-07,Middle Aged,16
+2020-03-07,Young Adults,1
+2020-03-14,Adults,1
+2020-03-14,Elderly,32
+2020-03-14,Middle Aged,23
+2020-03-14,Young Adults,1
+2020-03-21,Adults,61
+2020-03-21,Elderly,300
+2020-03-21,Middle Aged,208
+2020-03-21,Young Adults,6
+2020-03-28,Adults,362
+2020-03-28,Elderly,1587
+2020-03-28,Middle Aged,1185
+2020-03-28,Young Adults,49
+2020-04-04,Adults,965
+2020-04-04,Elderly,5167
+2020-04-04,Middle Aged,3832
+2020-04-04,Young Adults,131
+2020-04-11,Adults,1160
+2020-04-11,Elderly,9139
+2020-04-11,Middle Aged,5832
+2020-04-11,Young Adults,136
+2020-04-18,Adults,1080
+2020-04-18,Elderly,10327
+2020-04-18,Middle Aged,5594
+2020-04-18,Young Adults,137
+2020-04-25,Adults,914
+2020-04-25,Elderly,9682
+2020-04-25,Middle Aged,4815
+2020-04-25,Young Adults,96
+2020-05-02,Adults,719
+2020-05-02,Elderly,8340
+2020-05-02,Middle Aged,4043
+2020-05-02,Young Adults,92
+2020-05-09,Adults,635
+2020-05-09,Elderly,6928
+2020-05-09,Middle Aged,3572
+2020-05-09,Young Adults,78
+2020-05-16,Adults,562
+2020-05-16,Elderly,5742
+2020-05-16,Middle Aged,2831
+2020-05-16,Young Adults,70
+2020-05-23,Adults,444
+2020-05-23,Elderly,4396
+2020-05-23,Middle Aged,2320
+2020-05-23,Young Adults,67
+2020-05-30,Adults,413
+2020-05-30,Elderly,3696
+2020-05-30,Middle Aged,1998
+2020-05-30,Young Adults,50
+2020-06-06,Adults,403
+2020-06-06,Elderly,2915
+2020-06-06,Middle Aged,1670
+2020-06-06,Young Adults,46
+2020-06-13,Adults,361
+2020-06-13,Elderly,2345
+2020-06-13,Middle Aged,1457
+2020-06-13,Young Adults,59
+2020-06-20,Adults,340
+2020-06-20,Elderly,2166
+2020-06-20,Middle Aged,1285
+2020-06-20,Young Adults,43
+2020-06-27,Adults,356
+2020-06-27,Elderly,2061
+2020-06-27,Middle Aged,1356
+2020-06-27,Young Adults,50
+2020-07-04,Adults,473
+2020-07-04,Elderly,2349
+2020-07-04,Middle Aged,1614
+2020-07-04,Young Adults,91
+2020-07-11,Adults,580
+2020-07-11,Elderly,2968
+2020-07-11,Middle Aged,2118
+2020-07-11,Young Adults,94
+2020-07-18,Adults,662
+2020-07-18,Elderly,3740
+2020-07-18,Middle Aged,2645
+2020-07-18,Young Adults,124
+2020-07-25,Adults,742
+2020-07-25,Elderly,4276
+2020-07-25,Middle Aged,3081
+2020-07-25,Young Adults,111
+2020-08-01,Adults,705
+2020-08-01,Elderly,4372
+2020-08-01,Middle Aged,3125
+2020-08-01,Young Adults,83
+2020-08-08,Adults,653
+2020-08-08,Elderly,4220
+2020-08-08,Middle Aged,2893
+2020-08-08,Young Adults,79
+2020-08-15,Adults,595
+2020-08-15,Elderly,3924
+2020-08-15,Middle Aged,2633
+2020-08-15,Young Adults,78
+2020-08-22,Adults,513
+2020-08-22,Elderly,3392
+2020-08-22,Middle Aged,2382
+2020-08-22,Young Adults,70
+2020-08-29,Adults,392
+2020-08-29,Elderly,3145
+2020-08-29,Middle Aged,2128
+2020-08-29,Young Adults,50
+2020-09-05,Adults,351
+2020-09-05,Elderly,2823
+2020-09-05,Middle Aged,1777
+2020-09-05,Young Adults,46
+2020-09-12,Adults,365
+2020-09-12,Elderly,2484
+2020-09-12,Middle Aged,1700
+2020-09-12,Young Adults,54
+2020-09-19,Adults,271
+2020-09-19,Elderly,2423
+2020-09-19,Middle Aged,1520
+2020-09-19,Young Adults,41
+2020-09-26,Adults,307
+2020-09-26,Elderly,2437
+2020-09-26,Middle Aged,1497
+2020-09-26,Young Adults,36
+2020-10-03,Adults,279
+2020-10-03,Elderly,2449
+2020-10-03,Middle Aged,1450
+2020-10-03,Young Adults,39
+2020-10-10,Adults,296
+2020-10-10,Elderly,2844
+2020-10-10,Middle Aged,1617
+2020-10-10,Young Adults,37
+2020-10-17,Adults,279
+2020-10-17,Elderly,3142
+2020-10-17,Middle Aged,1707
+2020-10-17,Young Adults,34
+2020-10-24,Adults,333
+2020-10-24,Elderly,3703
+2020-10-24,Middle Aged,1870
+2020-10-24,Young Adults,38
+2020-10-31,Adults,389
+2020-10-31,Elderly,4323
+2020-10-31,Middle Aged,2210
+2020-10-31,Young Adults,52
+2020-11-07,Adults,460
+2020-11-07,Elderly,5479
+2020-11-07,Middle Aged,2705
+2020-11-07,Young Adults,60
+2020-11-14,Adults,555
+2020-11-14,Elderly,6707
+2020-11-14,Middle Aged,3243
+2020-11-14,Young Adults,66
+2020-11-21,Adults,644
+2020-11-21,Elderly,8425
+2020-11-21,Middle Aged,4083
+2020-11-21,Young Adults,89
+2020-11-28,Adults,758
+2020-11-28,Elderly,9813
+2020-11-28,Middle Aged,4816
+2020-11-28,Young Adults,96
+2020-12-05,Adults,934
+2020-12-05,Elderly,11676
+2020-12-05,Middle Aged,5726
+2020-12-05,Young Adults,101
+2020-12-12,Adults,1047
+2020-12-12,Elderly,13308
+2020-12-12,Middle Aged,6331
+2020-12-12,Young Adults,114
+2020-12-19,Adults,1173
+2020-12-19,Elderly,13773
+2020-12-19,Middle Aged,7058
+2020-12-19,Young Adults,152
+2020-12-26,Adults,1354
+2020-12-26,Elderly,14195
+2020-12-26,Middle Aged,7461
+2020-12-26,Young Adults,131
+2021-01-02,Adults,1460
+2021-01-02,Elderly,14574
+2021-01-02,Middle Aged,8118
+2021-01-02,Young Adults,180
+2021-01-09,Adults,1512
+2021-01-09,Elderly,14728
+2021-01-09,Middle Aged,8428
+2021-01-09,Young Adults,190
+2021-01-16,Adults,1412
+2021-01-16,Elderly,14252
+2021-01-16,Middle Aged,8517
+2021-01-16,Young Adults,170
+2021-01-23,Adults,1381
+2021-01-23,Elderly,12856
+2021-01-23,Middle Aged,7883
+2021-01-23,Young Adults,182
+2021-01-30,Adults,1272
+2021-01-30,Elderly,10919
+2021-01-30,Middle Aged,6921
+2021-01-30,Young Adults,148
+2021-02-06,Adults,1028
+2021-02-06,Elderly,8972
+2021-02-06,Middle Aged,6045
+2021-02-06,Young Adults,112
+2021-02-13,Adults,890
+2021-02-13,Elderly,6895
+2021-02-13,Middle Aged,4889
+2021-02-13,Young Adults,84
+2021-02-20,Adults,683
+2021-02-20,Elderly,5310
+2021-02-20,Middle Aged,4124
+2021-02-20,Young Adults,88
+2021-02-27,Adults,635
+2021-02-27,Elderly,4145
+2021-02-27,Middle Aged,3299
+2021-02-27,Young Adults,59
+2021-03-06,Adults,508
+2021-03-06,Elderly,3087
+2021-03-06,Middle Aged,2662
+2021-03-06,Young Adults,62
+2021-03-13,Adults,453
+2021-03-13,Elderly,2538
+2021-03-13,Middle Aged,2279
+2021-03-13,Young Adults,48
+2021-03-20,Adults,428
+2021-03-20,Elderly,2177
+2021-03-20,Middle Aged,1850
+2021-03-20,Young Adults,48
+2021-03-27,Adults,399
+2021-03-27,Elderly,1854
+2021-03-27,Middle Aged,1738
+2021-03-27,Young Adults,42
+2021-04-03,Adults,351
+2021-04-03,Elderly,1700
+2021-04-03,Middle Aged,1588
+2021-04-03,Young Adults,38
+2021-04-10,Adults,386
+2021-04-10,Elderly,1600
+2021-04-10,Middle Aged,1538
+2021-04-10,Young Adults,47
+2021-04-17,Adults,321
+2021-04-17,Elderly,1363
+2021-04-17,Middle Aged,1293
+2021-04-17,Young Adults,38
+2021-04-24,Adults,230
+2021-04-24,Elderly,1091
+2021-04-24,Middle Aged,934
+2021-04-24,Young Adults,37
+2021-05-01,Adults,64
+2021-05-01,Elderly,312
+2021-05-01,Middle Aged,278
+2021-05-01,Young Adults,4
